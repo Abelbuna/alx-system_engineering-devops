@@ -1,2 +1,2 @@
-#!/bin/bash
-su- chmod brtty hello
+#!/bin/bash       
+- su  chmod brtty hello
